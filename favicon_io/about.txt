@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Meetei Mayek
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/notosansmeeteimayek/v15/HTxAL3QyKieByqY9eZPFweO0be7M21uSphSdhqILnmrRfJ8t_1TJ__TW5PgeFYVa.ttf
+- Font License: undefined)
