@@ -42,9 +42,7 @@ Wizard/
 └── README.md               # Documentation and details
 ```
 
-## 📸 Screenshots
 
-*Add screenshots of hero animation, mobile responsiveness, and branded sections here.*
 
 ## 🚀 Future Improvements
 
