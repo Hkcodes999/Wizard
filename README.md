@@ -6,6 +6,12 @@
 
 ---
 
+## Preview
+
+![Preview](./img/Wizard-gif.gif)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML5** – Semantic and structured content
@@ -28,6 +34,14 @@
 * Managing performance while working with animation-heavy content
 * Structuring projects for scalability and clarity
 * Designing from a branding and storytelling perspective
+
+---
+
+## Whole Project Preview
+
+![Preview](./img/Wizard-gif2.gif)
+
+---
 
 ## 📁 Project Structure
 
